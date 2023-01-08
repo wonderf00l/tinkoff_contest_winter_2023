@@ -1,1 +1,1 @@
-# tinkoff_contest_winter_2023
+Экземпляр класса Comparator 
