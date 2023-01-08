@@ -12,4 +12,4 @@ comparator = Comparator(skip_docs_and_comments=False)
 similarity_degree = comparator.run(source_filename, edited_filename)
 
 P.S. Хотелось бы получить актуальные прикладные знания в области ML и задать специалисатм Тинькофф вопросы касательно способов реализации собственных идей и проектов в этой области.
-я в telegram: @w0nderf00l
+Телеграм: @w0nderf00l
